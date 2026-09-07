@@ -3,6 +3,7 @@
 import sys
 import re
 
+# Usage: python circuitParse.py inputFile
 def main():
   input_file = sys.argv[1]
   inputs = []
