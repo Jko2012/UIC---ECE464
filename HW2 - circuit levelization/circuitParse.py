@@ -117,7 +117,7 @@ def main():
     f.write("Inputs: ")
     for i in inputs:
       f.write(i[0] + ", ")
-      f.write("level 0")
+    f.write("level 0")
     f.write('\n')
 
     f.write("Outputs: ")
